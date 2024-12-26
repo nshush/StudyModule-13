@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\StudyModule-13\Workshop\Task2\bin\Debug\net8.0\Task2.exe
+C:\Users\ACER\source\repos\StudyModule-13\Workshop\Task2\bin\Debug\net8.0\Task2.deps.json
+C:\Users\ACER\source\repos\StudyModule-13\Workshop\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+C:\Users\ACER\source\repos\StudyModule-13\Workshop\Task2\bin\Debug\net8.0\Task2.dll
+C:\Users\ACER\source\repos\StudyModule-13\Workshop\Task2\bin\Debug\net8.0\Task2.pdb
+C:\Users\ACER\source\repos\StudyModule-13\Workshop\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\StudyModule-13\Workshop\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\StudyModule-13\Workshop\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+C:\Users\ACER\source\repos\StudyModule-13\Workshop\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\StudyModule-13\Workshop\Task2\obj\Debug\net8.0\Task2.sourcelink.json
+C:\Users\ACER\source\repos\StudyModule-13\Workshop\Task2\obj\Debug\net8.0\Task2.dll
+C:\Users\ACER\source\repos\StudyModule-13\Workshop\Task2\obj\Debug\net8.0\refint\Task2.dll
+C:\Users\ACER\source\repos\StudyModule-13\Workshop\Task2\obj\Debug\net8.0\Task2.pdb
+C:\Users\ACER\source\repos\StudyModule-13\Workshop\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+C:\Users\ACER\source\repos\StudyModule-13\Workshop\Task2\obj\Debug\net8.0\ref\Task2.dll
